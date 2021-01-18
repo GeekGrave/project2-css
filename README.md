@@ -1,2 +1,3 @@
 # project1-html
-barebones html image portfolio
+CSS
+https://geekgrave.github.io/project2-css/
